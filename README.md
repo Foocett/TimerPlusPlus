@@ -1,2 +1,2 @@
 # TimerPlusPlus
- A speedcubing timer, similar to CSTtmer but like if it wasn't CStimer
+ A speedcubing timer, similar to CStimer but like if it wasn't CStimer
